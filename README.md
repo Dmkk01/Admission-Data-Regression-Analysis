@@ -1,6 +1,6 @@
 # Deep Learning Regression with Admissions Data
 
-A project from Codecademy: [Build Deep Learning Models with TensorFlow](https://www.codecademy.com/learn/paths/build-deep-learning-models-with-tensorflow) carrer path.
+A project from Codecademy: [Build Deep Learning Models with TensorFlow](https://www.codecademy.com/learn/paths/build-deep-learning-models-with-tensorflow) skil path.
 
 ## Project Prompt
 
